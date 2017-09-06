@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin width="650" height="950" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="gameBg_png" x="0" y="0" width="652" locked="true"/>
+	<e:Label id="containerTxt" text="" x="113" y="604" width="422" height="73" size="28" textColor="0x000000" verticalAlign="justify" textAlign="center" locked="true"/>
+	<e:Rect width="652" height="5" x="0" y="776" fillColor="0x5a3535"/>
+	<e:Label id="myName" text="日暮途远" x="68" y="801" width="181" height="30" size="30" textAlign="center" verticalAlign="middle" textColor="0x000000"/>
+	<e:Label text="年龄 : " x="0" y="877" width="78" height="44" textColor="0x000000" size="28" verticalAlign="top"/>
+	<e:Label id="myAge" text="" x="78" y="877" textColor="0x0c0707" size="28" verticalAlign="middle" width="52"/>
+	<e:Label text="称号 :" x="130" y="877" textColor="0x060000" size="28" width="102" height="30"/>
+	<e:Label id="myTitle" text="小太监" x="208" y="877" size="28" textColor="0x000000" width="118" height="32"/>
+	<e:Label text="日期 :" x="392" y="798" textColor="0x060000" size="28"/>
+	<e:Label id="gameTime" text="" x="477" y="791" size="28" textColor="0x000000" width="150" height="50" textAlign="center" verticalAlign="middle"/>
+	<e:Image source="assistant_png" x="114.00000000000001" y="250" width="420" height="324" scaleX="1" scaleY="1" visible="false" locked="true"/>
+	<e:Button label="道具1" x="324" y="858" width="70" height="60"/>
+	<e:Button label="道具4" x="568" y="858" width="70" height="60"/>
+	<e:Button label="道具3" x="491" y="858" width="70" height="60"/>
+	<e:Button label="道具2" x="410" y="858" width="70" height="60"/>
+	<e:Group id="containerImg" width="425" height="327" x="113" y="250">
+	</e:Group>
+	<e:Group id="btn_left" width="196" height="64" x="91" y="698" locked="true"/>
+	<e:Group id="btn_right" width="196" height="64" x="350" y="698" locked="true"/>
+	<e:Group width="100" height="150" x="35" y="30" scaleX="1" scaleY="1">
+		<e:Image source="1004_png" left="0" right="0" top="0" height="100"/>
+		<e:Label text="财富" height="55" textAlign="center" verticalAlign="middle" left="0" right="0" bottom="0" textColor="0xf50809"/>
+		<e:Label id="richs" text="" x="0" y="0" width="98" height="55" textAlign="center" verticalAlign="middle" size="33" textColor="0x050000" visible="false"/>
+		<e:Rect id="richs_mask" strokeAlpha="0.7" fillAlpha="0.7" right="0" left="0" height="50" y="50" ellipseWidth="10" ellipseHeight="10" fillColor="0xe728c8"/>
+	</e:Group>
+	<e:Group width="100" height="150" x="197" y="30">
+		<e:Image source="1027_png" left="0" right="0" top="0" height="100"/>
+		<e:Label text="人缘" height="55" textAlign="center" verticalAlign="middle" left="0" right="0" bottom="0" textColor="0xf50809"/>
+		<e:Label id="fans" text="" x="-3" y="-2" width="100" height="57" textAlign="center" verticalAlign="middle" size="33" textColor="0x000000" visible="false"/>
+		<e:Rect id="fans_mask" strokeAlpha="0.7" fillAlpha="0.7" height="50" y="50" ellipseWidth="10" ellipseHeight="10" width="100" x="0" fillColor="0xe728c8"/>
+	</e:Group>
+	<e:Group width="100" height="150" x="345" y="30">
+		<e:Image source="2010_png" left="0" right="0" top="0" height="100"/>
+		<e:Label text="体力" x="0" width="95" height="56" textAlign="center" verticalAlign="middle" scaleX="1" scaleY="1" bottom="0" textColor="0xf40c0c" y="94"/>
+		<e:Label id="bood" text="" x="1" y="0" width="100" height="56" textAlign="center" verticalAlign="middle" textColor="0x040000" size="33" visible="false"/>
+		<e:Rect id="bood_mask" strokeAlpha="0.7" fillAlpha="0.7" right="-2" left="-1" height="50" y="50" ellipseWidth="10" ellipseHeight="10" fillColor="0xe728c9"/>
+	</e:Group>
+	<e:Group width="100" height="150" x="492" y="30">
+		<e:Image source="3211_png" left="0" right="0" top="0" height="100"/>
+		<e:Label text="魅力" height="56" textAlign="center" verticalAlign="middle" scaleX="1" scaleY="1" left="0" right="0" bottom="0" textColor="0xec1011"/>
+		<e:Label id="mei" text="" x="0" y="0" width="100" height="55" textAlign="center" verticalAlign="middle" textColor="0x020000" size="33" visible="false"/>
+		<e:Rect id="mei_mask" strokeAlpha="0.7" fillAlpha="0.7" right="1" left="-1" height="50" y="50" ellipseWidth="10" ellipseHeight="10" fillColor="0xe728c9"/>
+	</e:Group>
+	<e:Label id="myLevel" text="" x="100" y="833" width="107" height="45" textAlign="center" verticalAlign="middle"/>
+	<e:Group id="gp_over" left="0" right="0" top="0" bottom="0" visible="false">
+		<e:Rect left="-1" right="1" top="6" bottom="-6" strokeAlpha="1" fillAlpha="0.8" fillColor="0x020000" strokeColor="0xe5dadd"/>
+		<e:Label text="最高存活时间:" x="35" y="380" width="216" height="67" textAlign="center" verticalAlign="middle"/>
+		<e:Label text="本次存活时间:" x="36" y="284" width="216" height="67" textAlign="center" verticalAlign="middle"/>
+		<e:Label text="GAME OVER" x="66" y="6" width="534" height="163" textAlign="center" verticalAlign="middle" size="55"/>
+		<e:Group id="onclick_replay" width="328" height="97" x="149" y="800">
+			<e:Button label="" y="0" width="327" height="96" scaleX="1" scaleY="1" x="-3"/>
+			<e:Label text="再玩一次" x="84" y="24" width="166" height="48" textAlign="center" verticalAlign="middle" size="40" scaleX="1" scaleY="1"/>
+		</e:Group>
+		<e:Label text="级数:" x="102" y="125" width="92" height="74" textAlign="center" verticalAlign="middle"/>
+		<e:Label id="now_level" text="10" x="189" y="129" width="78" height="69" textAlign="center" verticalAlign="middle"/>
+		<e:Label text="称号:" x="312" y="133" width="121" height="54" textAlign="center" verticalAlign="middle"/>
+		<e:Label id="now_title" text="小太监" x="415" y="133" width="174" height="56" textAlign="left" verticalAlign="middle"/>
+		<e:Label text="最高级数:" x="55" y="223" width="144" height="42"/>
+		<e:Label id="top_level" text="20" x="187" y="215" width="78" height="50" textAlign="center" verticalAlign="middle"/>
+		<e:Label text="最高称号:" x="277" y="225" width="129" height="30"/>
+		<e:Label id="top_title" text="总管" x="423" y="214" width="172" height="51" textAlign="left" verticalAlign="middle"/>
+		<e:Image width="20" height="20" x="165" y="476"/>
+		<e:Label id="top_liveTime" text="" x="293" y="380" width="216" height="67" verticalAlign="middle" textAlign="center" size="40"/>
+		<e:Label id="now_liveTime" text="" x="290" y="287" width="239" height="54" textAlign="center" verticalAlign="middle" size="40"/>
+		<e:Label id="die_label" text="" x="121" y="648" width="415" height="115" textAlign="center" verticalAlign="middle"/>
+		<e:Image id="die_img" width="450" height="200" x="103" y="448.0000000000001" scaleX="1" scaleY="1"/>
+		<e:Group id="die_img_container" width="450" height="200" x="106" y="448"/>
+	</e:Group>
+	<e:Label id="event_name" text="" x="165" y="198" width="352" height="41" textAlign="center" verticalAlign="middle"/>
+	<w:Config id="1598c5b957b"/>
+</e:Skin>

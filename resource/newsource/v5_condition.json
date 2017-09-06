@@ -1,0 +1,14 @@
+[{},
+    {
+        "conditionId":1,
+        "donesid":[],
+        "donechoice":[],
+        "gameTime":[],
+        "age":[14,25],
+        "level":[],
+        "richs":[0,100],
+        "fans": [0,100],
+        "bood": [0,100],
+        "mei": [0,100]
+    }
+]

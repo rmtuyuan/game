@@ -1,0 +1,11 @@
+[
+    {},
+    {
+        "die_id":1,
+        "die_text":"你饿死了",
+        "die_img":"3_png",
+        "die_condition":1,
+        "die_priority":2
+
+    }
+]

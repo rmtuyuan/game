@@ -1,0 +1,8 @@
+[
+       {},
+       {"sID":1,"src":"1_png","sty":"你发现有个小太监在偷吃东西，你会怎么做？","btn_lf":{"text":"告发他","richs":1,"fans":-2,"bood":0,"mei":-1},"btn_rt":{"text":"一起吃","richs":0,"fans":1,"bood":2,"mei":2},"pre":0.2},
+       {"sID":2,"src":"2_png","sty":"你发现后宫有一具宫女尸体，你的选择？","btn_lf":{"text":"禀报","richs":2,"fans":-1,"bood":0,"mei":-2},"btn_rt":{"text":"装不知道","richs":0,"fans":1,"bood":3,"mei":1},"pre":0.1},
+       {"sID":3,"src":"3_png","sty":"你在路上捡到一块金条，你要怎么办？","btn_lf":{"text":"上交","richs":0,"fans":1,"bood":0,"mei":2},"btn_rt":{"text":"收起来","richs":2,"fans":0,"bood":1,"mei":0},"pre":0.3},
+       {"sID":4,"src":"4_png","sty":"你碰到一个小太监被群殴，你会怎么做？","btn_lf":{"text":"制止","richs":0,"fans":1,"bood":-3,"mei":1},"btn_rt":{"text":"装没看见","richs":0,"fans":-1,"bood":0,"mei":-2},"pre":0.4},
+       {"sID":5,"src":"5_png","sty":"你听到有人在说娘娘的坏话，你会怎么做？","btn_lf":{"text":"告诉娘娘","richs":1,"fans":-2,"bood":0,"mei":1},"btn_rt":{"text":"不管","richs":0,"fans":1,"bood":2,"mei":2},"pre":0.1}
+]

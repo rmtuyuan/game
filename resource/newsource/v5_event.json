@@ -1,0 +1,74 @@
+[
+    {},
+    {
+        
+        "sid":1,
+        "event_name":"宫女",
+        "sty":"事件1",
+        "src":"1_png",
+        "choiceID":[1,2],
+        "next_event":[2,5],
+        "probability":50
+    },
+     {
+        
+        "sid":2,
+        "event_name":"宫女",
+        "sty":"事件2",
+        "src":"2_png",
+        "choiceID":[4,2],
+        "next_event":[1,5],
+        "probability":50
+    },
+     {
+        
+        "sid":3,
+        "event_name":"宫女",
+        "sty":"事件3",
+        "src":"3_png",
+        "choiceID":[1,2],
+        "next_event":[4,6],
+        "probability":50
+    },
+     {
+        
+        "sid":4,
+        "event_name":"宫女",
+        "sty":"事件4",
+        "src":"1_png",
+        "choiceID":[3,1],
+        "next_event":[3,6],
+        "probability":50
+    },
+     {
+        
+        "sid":5,
+        "event_name":"宫女",
+        "sty":"事件5",
+        "src":"5_png",
+        "choiceID":[3,5],
+        "next_event":[1,-1],
+        "probability":50
+    },
+     {
+        
+        "sid":6,
+        "event_name":"宫女",
+        "sty":"事件6",
+        "src":"1_png",
+        "choiceID":[4,6],
+        "next_event":[4,-1],
+        "probability":50
+    },
+    {
+        
+        "sid":7,
+        "event_name":"太监",
+        "sty":"捡到一个元宝",
+        "src":"1_png",
+        "choiceID":[4,6],
+        "next_event":[0,0],
+        "probability":1
+    }
+
+]

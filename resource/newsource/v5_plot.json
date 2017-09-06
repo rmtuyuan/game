@@ -1,0 +1,26 @@
+[
+
+    {
+    },
+    {
+        "plot_event":1,
+        "event_arr":[1,2,5],
+        "condition_arr":[1],
+        "plot_mark":1,
+        "next_plot":[2]
+    },
+     {
+        "plot_event":2,
+        "event_arr":[3,4,6],
+        "condition_arr":[1],
+        "plot_mark":1,
+        "next_plot":[1]
+    },
+     {
+        "plot_event":3,
+        "event_arr":[7],
+        "condition_arr":[],
+        "plot_mark":0,
+        "next_plot":[1]
+    }
+]

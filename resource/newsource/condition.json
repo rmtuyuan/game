@@ -1,0 +1,197 @@
+{
+    
+   
+            "condition_a1":{
+                "btn_id":"a1",
+                "sid":[2],
+                "doneid":{},
+                "time":{},
+                "die":false
+            },
+          
+             "condition_b1":{
+                "btn_id":"b1",
+                "sid":[3],
+                "doneid":{},
+                "time":{},
+                "die":false
+            },
+          
+             "condition_a2":{
+                 "btn_id":"a2",
+                "sid":[],
+                "doneid":{},
+                "time":{},
+                 "die":true
+            },
+           
+             "condition_b2":{
+                 "btn_id":"b2",
+                "sid":[2,7],
+                "doneid":{},
+                "time":{},
+                "die":false
+            },
+           
+              "condition_a3":{
+                "btn_id":"a3",
+                "sid":[],
+                "doneid":{},
+                "time":{"<=2":[4,5,9],">2":[7,10]},
+                 "die":false
+            },
+          
+              "condition_b3":{
+                "btn_id":"b3",
+                "sid":[12],
+                "doneid":{},
+                "time":{},
+                 "die":false
+            },
+           
+              "condition_a4":{
+                  "btn_id":"a4",
+                "sid":[5],
+                "doneid":{},
+                "time":{},
+                 "die":false
+            },
+         
+              "condition_b4":{
+                  "btn_id":"b4",
+                "sid":[6],
+                "doneid":{},
+                "time":{},
+                 "die":false
+            },
+        
+              "condition_a5":{
+                  "btn_id":"a5",
+                "sid":[],
+                "doneid":{},
+                "time":{},
+                "die":true
+            },
+          
+              "condition_b5":{
+                  "btn_id":"b5",
+                "sid":[7],
+                "doneid":{},
+                "time":{},
+                 "die":false
+            },
+          
+              "condition_a6":{
+                  "btn_id":"a6",
+                "sid":[10],
+                "doneid":{},
+                "time":{},
+                 "die":false
+            },
+          
+              "condition_b6":{
+                  "btn_id":"b6",
+                "sid":[],
+                 "doneid":{},
+                "time":{"<=2":[1,7,10],">2":[7,10]},
+                 "die":false
+            },
+          
+             "condition_a7":{
+                 "btn_id":"a7",
+                "sid":[8],
+                "time":{},
+                "doneid":{"a4":true,"b5":true},
+                 "die":false
+            },
+            
+             "condition_b7":{
+                 "btn_id":"b7",
+                "sid":[9],
+                "doneid":{},
+                "time":{},
+                 "die":false
+            },
+           
+             "condition_a8":{
+                 "btn_id":"a8",
+                "sid":[11,12],
+                "doneid":{},
+                "time":{},
+                 "die":false
+            },
+         
+             "condition_b8":{
+                 "btn_id":"b8",
+                "sid":[9],
+                "doneid":{},
+                "time":{},
+                 "die":false
+            },
+          
+             "condition_a9":{
+                 "btn_id":"a9",
+                "sid":[],
+                "doneid":{},
+                "time":{},
+                 "die":true
+            },
+        
+             "condition_b9":{
+                 "btn_id":"b9",
+                "sid":[10],
+                "doneid":{},
+                "time":{},
+                 "die":false
+            },
+          
+             "condition_a10":{
+                 "btn_id":"a10",
+                "sid":[11],
+                "doneid":{"7":true,"9":true},
+                "time":{},
+                 "die":false
+            },
+       
+             "condition_b10":{
+                 "btn_id":"b10",
+                "sid":[12],
+                "doneid":{},
+                "time":{},
+                 "die":false
+            },
+           
+             "condition_a11":{
+                 "btn_id":"a11",
+                "sid":[],
+                "doneid":{},
+                "time":{">=6":[],"<6":[1]},
+                 "die":false
+            },
+           
+             "condition_b11":{
+                 "btn_id":"b11",
+                "sid":[1],
+                "doneid":{"a1":false,"b2":false},
+                "time":{},
+                 "die":false
+            },
+            
+             "condition_a12":{
+                 "btn_id":"a12",
+                "sid":[],
+                "doneid":{},
+                "time":{},
+                 "die":true
+            },
+           
+             "condition_b12":{
+                 "btn_id":"b12",
+                "sid":[],
+                "doneid":{"4":true},
+                "time":{"<=4":[4],">4":[]},
+                 "die":false
+            }
+        
+
+}

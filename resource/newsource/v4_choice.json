@@ -1,0 +1,70 @@
+[
+    {},
+    { 
+        
+        "choiceId":1,
+        "text": "决策-1",
+        "richs": 0,
+        "fans": 1,
+        "bood": 2,
+        "mei": 2,
+        "pre": 1,
+        "month":12,
+         "age_pre":1 
+    },
+     {
+        "choiceId":2,
+        "text": "决策-2",
+        "richs": 4,
+        "fans": 1,
+        "bood": 2,
+        "mei": 2,
+        "pre": 2,
+        "month":12,
+        "age_pre":1
+    },
+      {
+        "choiceId":3,
+        "text": "决策-3",
+        "richs": 0,
+        "fans": 1,
+        "bood": 2,
+        "mei": 2,
+        "pre": 3,
+        "month":12,
+         "age_pre":1 
+    },
+     {
+        "choiceId":4,
+        "text": "决策-4",
+        "richs": 3,
+        "fans": 1,
+        "bood": 2,
+        "mei": 2,
+        "pre": 5,
+        "month":12,
+        "age_pre":1
+    },
+      {
+        "choiceId":5,
+        "text": "决策-5",
+        "richs": 1,
+        "fans": 1,
+        "bood": 2,
+        "mei": 2,
+        "pre": 1,
+        "month":12,
+         "age_pre":1 
+    },
+     {
+        "choiceId":6,
+        "text": "决策-6",
+        "richs": 5,
+        "fans": 1,
+        "bood": 2,
+        "mei": 2,
+        "pre": 1,
+        "month":12,
+        "age_pre":1
+    }
+]

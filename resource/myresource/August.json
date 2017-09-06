@@ -1,0 +1,66 @@
+[
+       {},
+       {"sID":1,"src":"1_png","sty":"你发现有个小太监在偷吃东西-8月1，你会怎么做？","btn_lf":{"text":"告发他","richs":1,"fans":-2,"bood":0,"mei":-1,"sid":2,"pre":0.2,"month":0.2},"btn_rt":{"text":"一起吃","richs":0,"fans":1,"bood":2,"mei":2,"sid":3,"pre":-0.1,"month":0.3}},
+
+       {"sID":2,"src":"2_png","sty":"你发现后宫有一具宫女尸体-8月2，你的选择？","btn_lf":{"text":"禀报","richs":2,"fans":-1,"bood":0,"mei":-2,"sid":4,"pre":0.1,"month":0.2},"btn_rt":{"text":"装不知道","richs":0,"fans":1,"bood":3,"mei":1,"sid":5,"pre":0.1,"month":0.2}},
+
+       {"sID":3,"src":"3_png","sty":"你在路上捡到一块金条-8月3，你要怎么办？","btn_lf":{"text":"上交","richs":0,"fans":1,"bood":0,"mei":2,"sid":6,"pre":0.1,"month":1.1},"btn_rt":{"text":"收起来","richs":2,"fans":0,"bood":1,"mei":0,"sid":7,"pre":0.1,"month":0.2}},
+
+       {"sID":4,"src":"4_png","sty":"你碰到一个小太监被群殴-8月4，你会怎么做？","btn_lf":{"text":"制止","richs":0,"fans":1,"bood":-3,"mei":1,"sid":8,"pre":0.1,"month":0.2},"btn_rt":{"text":"装没看见","richs":0,"fans":-1,"bood":0,"mei":-2,"sid":9,"pre":0.1,"month":0.2}},
+
+       {"sID":5,"src":"5_png","sty":"你听到有人在说娘娘的坏话8月5，你会怎么做？","btn_lf":{"text":"告诉娘娘","richs":1,"fans":-2,"bood":0,"mei":1,"sid":10,"pre":0.1,"month":0.2},"btn_rt":{"text":"不管","richs":0,"fans":1,"bood":2,"mei":2,"sid":11,"pre":0.1,"month":0.2}},
+
+       {"sID":6,"src":"1_png","sty":"你发现有个小太监在偷吃东西-8月6，你会怎么做？","btn_lf":{"text":"告发他","richs":1,"fans":-2,"bood":0,"mei":-1,"sid":12,"pre":0.1,"month":0.2},"btn_rt":{"text":"一起吃","richs":0,"fans":1,"bood":2,"mei":2,"sid":13,"pre":0.1,"month":0.2}},
+
+       {"sID":7,"src":"2_png","sty":"你发现后宫有一具宫女尸体-8月7，你的选择？","btn_lf":{"text":"禀报","richs":2,"fans":-1,"bood":0,"mei":-2,"sid":14,"pre":0.1,"month":0.2},"btn_rt":{"text":"装不知道","richs":0,"fans":1,"bood":3,"mei":1,"sid":15,"pre":0.1,"month":0.2}},
+
+       {"sID":8,"src":"3_png","sty":"你在路上捡到一块金条-8月8，你要怎么办？","btn_lf":{"text":"上交","richs":0,"fans":1,"bood":0,"mei":2,"sid":16,"pre":0.1,"month":0.2},"btn_rt":{"text":"收起来","richs":2,"fans":0,"bood":1,"mei":0,"sid":17,"pre":0.1,"month":0.2}},
+
+       {"sID":9,"src":"4_png","sty":"你碰到一个小太监被群殴-8月9，你会怎么做？","btn_lf":{"text":"制止","richs":0,"fans":1,"bood":-3,"mei":1,"sid":18,"pre":0.1,"month":0.2},"btn_rt":{"text":"装没看见","richs":0,"fans":-1,"bood":0,"mei":-2,"sid":19,"pre":0.1,"month":0.2}},
+
+       {"sID":10,"src":"5_png","sty":"你听到有人在说娘娘的坏话-8月10，你会怎么做？","btn_lf":{"text":"告诉娘娘","richs":1,"fans":-2,"bood":0,"mei":1,"sid":20,"pre":0.1,"month":0.2},"btn_rt":{"text":"不管","richs":0,"fans":1,"bood":2,"mei":2,"sid":21,"pre":0.1,"month":0.2}},
+
+        {"sID":11,"src":"1_png","sty":"你发现有个小太监在偷吃东西-8月11，你会怎么做？","btn_lf":{"text":"告发他","richs":1,"fans":-2,"bood":0,"mei":-1,"sid":2,"pre":0.2,"month":0.2},"btn_rt":{"text":"一起吃","richs":0,"fans":1,"bood":2,"mei":2,"sid":3,"pre":-0.1,"month":0.6}},
+
+       {"sID":12,"src":"2_png","sty":"你发现后宫有一具宫女尸体-8月12，你的选择？","btn_lf":{"text":"禀报","richs":2,"fans":-1,"bood":0,"mei":-2,"sid":4,"pre":0.1,"month":0.2},"btn_rt":{"text":"装不知道","richs":0,"fans":1,"bood":3,"mei":1,"sid":5,"pre":0.1,"month":0.2}},
+
+       {"sID":13,"src":"3_png","sty":"你在路上捡到一块金条-8月13，你要怎么办？","btn_lf":{"text":"上交","richs":0,"fans":1,"bood":0,"mei":2,"sid":6,"pre":0.1,"month":0.2},"btn_rt":{"text":"收起来","richs":2,"fans":0,"bood":1,"mei":0,"sid":7,"pre":0.1,"month":1}},
+
+       {"sID":14,"src":"4_png","sty":"你碰到一个小太监被群殴-8月14，你会怎么做？","btn_lf":{"text":"制止","richs":0,"fans":1,"bood":-3,"mei":1,"sid":8,"pre":0.1,"month":0.2},"btn_rt":{"text":"装没看见","richs":0,"fans":-1,"bood":0,"mei":-2,"sid":9,"pre":0.1,"month":0.2}},
+
+       {"sID":15,"src":"5_png","sty":"你听到有人在说娘娘的坏话8月15，你会怎么做？","btn_lf":{"text":"告诉娘娘","richs":1,"fans":-2,"bood":0,"mei":1,"sid":10,"pre":0.1,"month":0.2},"btn_rt":{"text":"不管","richs":0,"fans":1,"bood":2,"mei":2,"sid":11,"pre":0.1,"month":2}},
+
+       {"sID":16,"src":"1_png","sty":"你发现有个小太监在偷吃东西-8月16，你会怎么做？","btn_lf":{"text":"告发他","richs":1,"fans":-2,"bood":0,"mei":-1,"sid":12,"pre":0.1,"month":0.2},"btn_rt":{"text":"一起吃","richs":0,"fans":1,"bood":2,"mei":2,"sid":13,"pre":0.1,"month":0.2}},
+
+       {"sID":17,"src":"2_png","sty":"你发现后宫有一具宫女尸体-8月17，你的选择？","btn_lf":{"text":"禀报","richs":2,"fans":-1,"bood":0,"mei":-2,"sid":14,"pre":0.1,"month":0.2},"btn_rt":{"text":"装不知道","richs":0,"fans":1,"bood":3,"mei":1,"sid":15,"pre":0.1,"month":0.2}},
+
+       {"sID":18,"src":"3_png","sty":"“月上柳梢头，人约黄昏后”描写的是哪个传统节日-8月18，？","btn_lf":{"text":"元宵节","richs":0,"fans":1,"bood":0,"mei":2,"sid":16,"pre":0.7,"month":0.5},"btn_rt":{"text":"重阳节","richs":2,"fans":0,"bood":1,"mei":0,"sid":17,"pre":0.1,"month":0}},
+
+       {"sID":19,"src":"4_png","sty":"你碰到一个小太监被群殴-8月19，你会怎么做？","btn_lf":{"text":"制止","richs":0,"fans":1,"bood":-3,"mei":1,"sid":18,"pre":0.1,"month":0.2},"btn_rt":{"text":"装没看见","richs":0,"fans":-1,"bood":0,"mei":-2,"sid":19,"pre":0.1,"month":0.2}},
+
+       {"sID":20,"src":"5_png","sty":"地球唯一的一颗天然卫星-8月20，是哪个天体？？","btn_lf":{"text":"月球","richs":1,"fans":-2,"bood":0,"mei":1,"sid":20,"pre":0.1,"month":2},"btn_rt":{"text":"太阳","richs":0,"fans":1,"bood":2,"mei":2,"sid":21,"pre":-0.8,"month":0}},
+         {"sID":21,"src":"1_png","sty":"你发现有个小太监在偷吃东西-8月21，你会怎么做？","btn_lf":{"text":"告发他","richs":1,"fans":-2,"bood":0,"mei":-1,"sid":2,"pre":0.2,"month":0.2},"btn_rt":{"text":"一起吃","richs":0,"fans":1,"bood":2,"mei":2,"sid":3,"pre":-0.1,"month":0.6}},
+
+       {"sID":22,"src":"2_png","sty":"你发现后宫有一具宫女尸体-8月22，你的选择？","btn_lf":{"text":"禀报","richs":2,"fans":-1,"bood":0,"mei":-2,"sid":4,"pre":0.1,"month":0.2},"btn_rt":{"text":"装不知道","richs":0,"fans":1,"bood":3,"mei":1,"sid":5,"pre":0.1,"month":0.2}},
+
+       {"sID":23,"src":"3_png","sty":"你在路上捡到一块金条-8月23，你要怎么办？","btn_lf":{"text":"上交","richs":0,"fans":1,"bood":0,"mei":2,"sid":6,"pre":0.1,"month":0.2},"btn_rt":{"text":"收起来","richs":2,"fans":0,"bood":1,"mei":0,"sid":7,"pre":0.1,"month":1}},
+
+       {"sID":24,"src":"4_png","sty":"你碰到一个小太监被群殴-8月24，你会怎么做？","btn_lf":{"text":"制止","richs":0,"fans":1,"bood":-3,"mei":1,"sid":8,"pre":0.1,"month":0.2},"btn_rt":{"text":"装没看见","richs":0,"fans":-1,"bood":0,"mei":-2,"sid":9,"pre":0.1,"month":0.2}},
+
+       {"sID":25,"src":"5_png","sty":"你听到有人在说娘娘的坏话8月25，你会怎么做？","btn_lf":{"text":"告诉娘娘","richs":1,"fans":-2,"bood":0,"mei":1,"sid":10,"pre":0.1,"month":0.2},"btn_rt":{"text":"不管","richs":0,"fans":1,"bood":2,"mei":2,"sid":11,"pre":0.1,"month":2}},
+
+       {"sID":26,"src":"1_png","sty":"你发现有个小太监在偷吃东西-8月26，你会怎么做？","btn_lf":{"text":"告发他","richs":1,"fans":-2,"bood":0,"mei":-1,"sid":12,"pre":0.1,"month":0.2},"btn_rt":{"text":"一起吃","richs":0,"fans":1,"bood":2,"mei":2,"sid":13,"pre":0.1,"month":0.2}},
+
+       {"sID":27,"src":"2_png","sty":"你发现后宫有一具宫女尸体-8月27，你的选择？","btn_lf":{"text":"禀报","richs":2,"fans":-1,"bood":0,"mei":-2,"sid":14,"pre":0.1,"month":0.2},"btn_rt":{"text":"装不知道","richs":0,"fans":1,"bood":3,"mei":1,"sid":15,"pre":0.1,"month":0.2}},
+
+       {"sID":28,"src":"3_png","sty":"“月上柳梢头，人约黄昏后”描写的是哪个传统节日-8月28，？","btn_lf":{"text":"元宵节","richs":0,"fans":1,"bood":0,"mei":2,"sid":16,"pre":0.7,"month":0.5},"btn_rt":{"text":"重阳节","richs":2,"fans":0,"bood":1,"mei":0,"sid":17,"pre":0.1,"month":0}},
+
+       {"sID":29,"src":"4_png","sty":"你碰到一个小太监被群殴-8月29，你会怎么做？","btn_lf":{"text":"制止","richs":0,"fans":1,"bood":-3,"mei":1,"sid":18,"pre":0.1,"month":0.2},"btn_rt":{"text":"装没看见","richs":0,"fans":-1,"bood":0,"mei":-2,"sid":19,"pre":0.1,"month":0.2}},
+
+       {"sID":30,"src":"5_png","sty":"地球唯一的一颗天然卫星-8月30，是哪个天体？？","btn_lf":{"text":"月球","richs":1,"fans":-2,"bood":0,"mei":1,"sid":20,"pre":0.1,"month":2},"btn_rt":{"text":"太阳","richs":0,"fans":1,"bood":2,"mei":2,"sid":21,"pre":-0.8,"month":0}}
+     
+]
+
+
+
+

@@ -1,0 +1,385 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,1004_png,1027_png,2010_png,3211_png,card_png,designer-02_png,gameBg_png,manImg_jpg,office-manager_png,product-manager_png,rapper-01_png,rapper-02_png,rapper-03_png,richard-branson_png,xiaotaijian_jpg,2-0btn_09_png,2-0btn_03_png,bg_jpg,button_down_png,button_up_png,checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,egret_icon_png,selected_png,border_png,header_png,thumb_pb_png,track_pb_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,track_sb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,1_png,2_png,3_png,4_png,5_png,resource_json,newsrc_json,April_json,January_json,February_json,March_json,May_json,June_json,July_json,August_json,September_json,October_json,November_json,December_json,v1_json,condition_json,choice_json,v2_json,v4_event_json,v4_choice_json,v4_condition_json,v5_event_json,v5_choice_json,v5_condition_json,v5_plot_json,v5_die_json,data_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/1004.png",
+			"type": "image",
+			"name": "1004_png"
+		},
+		{
+			"url": "assets/1027.png",
+			"type": "image",
+			"name": "1027_png"
+		},
+		{
+			"url": "assets/2010.png",
+			"type": "image",
+			"name": "2010_png"
+		},
+		{
+			"url": "assets/3211.png",
+			"type": "image",
+			"name": "3211_png"
+		},
+		{
+			"url": "assets/card.png",
+			"type": "image",
+			"name": "card_png"
+		},
+		{
+			"url": "assets/designer-02.png",
+			"type": "image",
+			"name": "designer-02_png"
+		},
+		{
+			"url": "assets/gameBg.png",
+			"type": "image",
+			"name": "gameBg_png"
+		},
+		{
+			"url": "assets/manImg.jpg",
+			"type": "image",
+			"name": "manImg_jpg"
+		},
+		{
+			"url": "assets/office-manager.png",
+			"type": "image",
+			"name": "office-manager_png"
+		},
+		{
+			"url": "assets/product-manager.png",
+			"type": "image",
+			"name": "product-manager_png"
+		},
+		{
+			"url": "assets/rapper-01.png",
+			"type": "image",
+			"name": "rapper-01_png"
+		},
+		{
+			"url": "assets/rapper-02.png",
+			"type": "image",
+			"name": "rapper-02_png"
+		},
+		{
+			"url": "assets/rapper-03.png",
+			"type": "image",
+			"name": "rapper-03_png"
+		},
+		{
+			"url": "assets/richard-branson.png",
+			"type": "image",
+			"name": "richard-branson_png"
+		},
+		{
+			"url": "assets/u=2108914644,2477512733&fm=214&gp=0.jpg",
+			"type": "image",
+			"name": "u=2108914644,2477512733&fm=214&gp=0_jpg"
+		},
+		{
+			"url": "assets/xiaotaijian.jpg",
+			"type": "image",
+			"name": "xiaotaijian_jpg"
+		},
+		{
+			"url": "assets/2-0btn_09.png",
+			"type": "image",
+			"name": "2-0btn_09_png"
+		},
+		{
+			"url": "assets/2-0btn_03.png",
+			"type": "image",
+			"name": "2-0btn_03_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/1.png",
+			"type": "image",
+			"name": "1_png"
+		},
+		{
+			"url": "assets/2.png",
+			"type": "image",
+			"name": "2_png"
+		},
+		{
+			"url": "assets/3.png",
+			"type": "image",
+			"name": "3_png"
+		},
+		{
+			"url": "assets/4.png",
+			"type": "image",
+			"name": "4_png"
+		},
+		{
+			"url": "assets/5.png",
+			"type": "image",
+			"name": "5_png"
+		},
+		{
+			"url": "resource.json",
+			"type": "json",
+			"name": "resource_json"
+		},
+		{
+			"url": "newsrc.json",
+			"type": "json",
+			"name": "newsrc_json"
+		},
+		{
+			"url": "myresource/April.json",
+			"type": "json",
+			"name": "April_json"
+		},
+		{
+			"url": "myresource/January.json",
+			"type": "json",
+			"name": "January_json"
+		},
+		{
+			"url": "myresource/February.json",
+			"type": "json",
+			"name": "February_json"
+		},
+		{
+			"url": "myresource/March.json",
+			"type": "json",
+			"name": "March_json"
+		},
+		{
+			"url": "myresource/May.json",
+			"type": "json",
+			"name": "May_json"
+		},
+		{
+			"url": "myresource/June.json",
+			"type": "json",
+			"name": "June_json"
+		},
+		{
+			"url": "myresource/July.json",
+			"type": "json",
+			"name": "July_json"
+		},
+		{
+			"url": "myresource/August.json",
+			"type": "json",
+			"name": "August_json"
+		},
+		{
+			"url": "myresource/September.json",
+			"type": "json",
+			"name": "September_json"
+		},
+		{
+			"url": "myresource/October.json",
+			"type": "json",
+			"name": "October_json"
+		},
+		{
+			"url": "myresource/November.json",
+			"type": "json",
+			"name": "November_json"
+		},
+		{
+			"url": "myresource/December.json",
+			"type": "json",
+			"name": "December_json"
+		},
+		{
+			"url": "newsource/v1.json",
+			"type": "json",
+			"name": "v1_json"
+		},
+		{
+			"url": "newsource/condition.json",
+			"type": "json",
+			"name": "condition_json"
+		},
+		{
+			"url": "newsource/choice.json",
+			"type": "json",
+			"name": "choice_json"
+		},
+		{
+			"url": "newsource/v2.json",
+			"type": "json",
+			"name": "v2_json"
+		},
+		{
+			"url": "newsource/v4_event.json",
+			"type": "json",
+			"name": "v4_event_json"
+		},
+		{
+			"url": "newsource/v4_choice.json",
+			"type": "json",
+			"name": "v4_choice_json"
+		},
+		{
+			"url": "newsource/v4_condition.json",
+			"type": "json",
+			"name": "v4_condition_json"
+		},
+		{
+			"url": "newsource/v5_event.json",
+			"type": "json",
+			"name": "v5_event_json"
+		},
+		{
+			"url": "newsource/v5_choice.json",
+			"type": "json",
+			"name": "v5_choice_json"
+		},
+		{
+			"url": "newsource/v5_condition.json",
+			"type": "json",
+			"name": "v5_condition_json"
+		},
+		{
+			"url": "newsource/v5_plot.json",
+			"type": "json",
+			"name": "v5_plot_json"
+		},
+		{
+			"url": "newsource/v5_die.json",
+			"type": "json",
+			"name": "v5_die_json"
+		},
+		{
+			"url": "data_json/data.json",
+			"type": "json",
+			"name": "data_json"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin width="650" height="950" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="gameBg_png" x="0" width="652"/>
+	<e:Label text="GAME START" x="44" y="265" width="582" height="212" textAlign="center" verticalAlign="middle" size="50" textColor="0x040000"/>
+	<e:Group id="playGame" width="504" height="169" x="88" y="540">
+		<e:Button label="" x="21" y="37" width="469" height="117"/>
+		<e:Label text="开始游戏" x="148" y="37" width="216" height="99" textAlign="center" verticalAlign="middle"/>
+	</e:Group>
+	<w:Config id="15991a1d925"/>
+</e:Skin>
